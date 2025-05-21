@@ -4,3 +4,16 @@
     font-size: 20px;
     text-align: center;
 }
+
+/* 
+
+acima usando o seletor 'p'
+abaixo usando classes c/ '.text' baixo
+
+.container .text{
+    background-color: #ffff00;
+    color: rgb(255,0,0);
+    font-size: 20px;
+    text-align: center;
+}
+*/
